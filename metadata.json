@@ -1,0 +1,5 @@
+{
+  "name": "Wisp Messenger",
+  "description": "A web-based messenger application UI inspired by modern messaging apps, built with React and Tailwind CSS. It features a dark theme, story previews, a chat list, and a detailed chat view.",
+  "requestFramePermissions": []
+}
